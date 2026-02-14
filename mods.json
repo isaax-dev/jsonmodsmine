@@ -13,5 +13,10 @@
 	"nome": "Animação comer",
 	"descricao": "Adiciona uma animação de comer no minecraft",
 	"link": "https://drive.google.com/file/d/1kPbqOuIiF8v-YpqrzCRjI1if3p9RHf9r/view?usp=drive_link"  
+  },
+  {
+	"nome": "Pokemons",
+	"descricao": "Adiciona Pokemons ao mundo",
+	"link": "nil"
   }
 ]
