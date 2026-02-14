@@ -1,8 +1,8 @@
 [
-  { nome: "Picareta de Redstone", descricao: "Uma picareta de redstone bem forte e resistente" },
-  { nome: "Espada de Quartzo", descricao: "Lâmina afiada feita de cristais do Nether" },
-  { nome: "Machado de Obsidiana", descricao: "Corta madeira com a dureza de uma rocha vulcânica" },
-  { nome: "Pá de Esmeralda", descricao: "Cava blocos de terra em alta velocidade" },
-  { nome: "Capacete de Ametista", descricao: "Proteção brilhante que emite sons de cristais" },
-  { nome: "Botas de Cobre", descricao: "Aumentam a velocidade mas oxidam com o tempo" }
+{ nome: "Picareta de Redstone", descricao: "Uma picareta de redstone bem forte e resistente" },
+{ nome: "Espada de Quartzo", descricao: "Lâmina afiada feita de cristais do Nether" },
+{ nome: "Machado de Obsidiana", descricao: "Corta madeira com a dureza de uma rocha vulcânica" },
+{ nome: "Pá de Esmeralda", descricao: "Cava blocos de terra em alta velocidade" },
+{ nome: "Capacete de Ametista", descricao: "Proteção brilhante que emite sons de cristais" },
+{ nome: "Botas de Cobre", descricao: "Aumentam a velocidade mas oxidam com o tempo" }
 ]
