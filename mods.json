@@ -18,5 +18,10 @@
 	"nome": "Pokemons",
 	"descricao": "Adiciona Pokemons ao mundo",
 	"link": "nil"
+  },
+  {
+	"nome": "Skins",
+	"descricao": "Um pack ou skins para minecrafr (não testado)",
+	"link": "https://drive.google.com/file/d/1QC_AvPRRqbyMYMvvUGWjKXQ-oThqvrY7/view?usp=drive_link"
   }
 ]
